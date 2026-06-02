@@ -13,6 +13,9 @@
         <mxCell id="HOBIxIFFi-7r3d3L-E3l-3" value="基于二因子核密度比与SURD协同约束构建指数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HOBIxIFFi-7r3d3L-E3l-4" value="输出空间分布图并与参考模型对比验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
