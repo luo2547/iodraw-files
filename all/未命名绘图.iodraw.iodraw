@@ -8,10 +8,10 @@
           <mxGeometry x="360" y="180" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HOBIxIFFi-7r3d3L-E3l-2" value="基于SURD协同结构进行关键生境因子组合的筛选与协同信息提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HOBIxIFFi-7r3d3L-E3l-3" value="基于二因子核密度比与SURD协同约束构建指数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HOBIxIFFi-7r3d3L-E3l-4" value="输出空间分布图并与参考模型对比验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="525" width="120" height="60" as="geometry" />
